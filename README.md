@@ -4,7 +4,7 @@
 **SaraAllaparthi/SaraAllaparthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🚀 I am the CEO & Founder of **Maverick AI Group**, where we specialize in developing cutting-edge AI solutions designed for small and mid-size businesses. With a focus on seamless integration and continuous optimization, we make AI effortless and scalable for your organization.
+I am the CEO & Founder of **[Maverick AI Group](https://www.maverickaigroup.ai)**. I build custom AI solutions for small and mid-size businesses to help from scale and grow exponentially using AI. Whether it’s automating repetitive tasks, building custom chatbots or optimizing pricing strategies, I focus on results.
 
 ### 🌟 About Me
 
