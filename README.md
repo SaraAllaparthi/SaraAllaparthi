@@ -17,7 +17,7 @@ I am the CEO & Founder of **[Maverick AI Group](https://www.maverickaigroup.ai)*
 
 ### 📫 Let's Connect!
 
-- 🔗 https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
+- 🔗 [https://www.linkedin.com/saraallaparthi](https://www.linkedin.com/in/saraallaparthi/)
 - 🌐 [Maverick AI Group](https://www.maverickaigroup.ai/)
 - 📧 [contact@maverickaigroup.ai](mailto:contact@maverickaigroup.ai)
 
